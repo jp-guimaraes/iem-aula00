@@ -12,7 +12,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/iem-aula00/home/intro/</guid>
-      <description> Objetivos  Apresentação do professor Planejamento do restante do curso Revisão dos conteúdos vistos Avançar na prática iniciada   </description>
+      <description> Objetivos   Apresentação do professor
+  Introdução ao curso
+  Apresentação da Ementa
+  Como a disciplina está posicionada dentro do curso?
+   </description>
     </item>
     
     <item>
@@ -21,37 +25,42 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/iem-aula00/home/curso/</guid>
-      <description> Instalação e Montagem de Computadores Contexto dentro do curso de Manutenção e Suporte em Informática
-- Disciplina introdutória - Fundamentos práticos e teóricos que serão utilizados em todo o curso   Objetivos:   Entender os componentes de computadores
-  Montar computadores (desktops/laptops)
-  Formatar e instalar sistemas operacionais
-   </description>
+      <description>Instalação e Montagem de Computadores Contexto dentro do curso de Manutenção e Suporte em Informática
+  Disciplina introdutória
+  Fundamentos práticos e teóricos que serão utilizados em todo o curso
+   Ementa Componentes de um computador (CPU, memória, barramento, dispositivos de E/S). Instalação e montagem de microcomputadores.
+ Objetivos:   Conhecer os componentes básicos dos computadores
+  Aprender os procedimentos básicos de montagem e instalação de computadores</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/iem-aula00/home/abordagem/</link>
+      <link>https://jp-guimaraes.github.io/iem-aula00/home/conteudos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/iem-aula00/home/abordagem/</guid>
-      <description>Curso   Mural
-  Microsoft Teams
-  Equipe no Microsoft Teams
-  chat
-    e-mail: joao.guimaraes@ifrn.edu.br
-   Abordagem para o restante do curso   Aulas teóricas (sala de aula)
- Garantir o mínimo de entendimento necessário para as demais disciplinas Entender profundamente os procedimentos práticos    Aulas práticas no laboratório
-   Centro Acadêmico Dúvidas teóricas/práticas</description>
+      <guid>https://jp-guimaraes.github.io/iem-aula00/home/conteudos/</guid>
+      <description>Conteúdos  Introdução aos componentes dos computadores  Modelo de Von Neumann Conjunto de instruções Processador e seus componentes Memória Memória Cache Dispositivos de E/S   Montagem de Computadores   Montagem básica de computadores
+  Principais partes integrantes do computador
+   Instalação de Softwares   Particionamento e Formatação
+  Instalação e configuração do Windows
+  Instalação e configuração do Linux
+  Instalação de softwares aplicativos e utilitários</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/iem-aula00/home/revisao/</link>
+      <link>https://jp-guimaraes.github.io/iem-aula00/home/burocracias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/iem-aula00/home/revisao/</guid>
-      <description> Revisão Link para aula de breve revisão
- </description>
+      <guid>https://jp-guimaraes.github.io/iem-aula00/home/burocracias/</guid>
+      <description>Burocracias  Google Sala de aula  Centro Acadêmico Dúvidas teóricas/práticas
+Horário?
+Local: Laboratório de Manutenção ou sala 212
+ Avaliações   Avaliações escritas (objetivas/discussivas)
+  Avaliação continuada (práticas de laboratório)
+  Trabalhos
+ Atraso na entrega de atividades    Reposição
+   Presença  Formas de estudo  Lista de exercícios / Roteiro de estudos Video-tutoriais Práticas (laboratório) Sala de aula Leitura/estudo - material de suporte   Dúvidas?</description>
     </item>
     
   </channel>
